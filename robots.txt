@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aberbert.github.io/reference-sh100b/sitemap.xml
